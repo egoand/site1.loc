@@ -1,0 +1,6 @@
+<IfModule mod_mime.c>
+    AddType image/jpeg .jpeg .jpg .jpe
+    AddType image/png .png
+    AddType image/gif .gif
+    AddType image/webp .webp
+</IfModule>
